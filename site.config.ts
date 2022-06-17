@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://www.notion.so/Blog-ad263230f6004e6bbc4beff87f6ff20e',
+  domain: 'https://bitter-pluto-a40.notion.site/Blog-ad263230f6004e6bbc4beff87f6ff20e',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
